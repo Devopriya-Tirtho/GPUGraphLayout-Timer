@@ -18,5 +18,5 @@ This repository contains a Bash script (`run_graph_viewer.sh`) that runs a graph
 
 1. Clone the repository or download the script:
    ```bash
-   git clone https://github.com/yourusername/gpu-graph-layout-timer.git
+   git clone https://github.com/Devopriya-Tirtho/gpu-graph-layout-timer.git
    cd gpu-graph-layout-timer
